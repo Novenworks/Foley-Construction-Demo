@@ -58,7 +58,7 @@ function OutreachPage() {
                 "GitHub",
                 "https://github.com/Novenworks/Foley-Construction-Demo",
               ],
-              ["Deployed demo", "See production URL after Vercel promote"],
+              ["Deployed demo", "https://foley-construction-demo.vercel.app"],
             ]}
           />
         </Section>
@@ -225,7 +225,7 @@ The work is there. The kitchens in your old slideshow are actual Foley jobs. The
 
 Novenworks built a speculative redesign so you can see what the same business looks like when the photography, the license, and the phone number are doing the talking. It is a concept, not a live cutover, and it is not a comment on HostingOC.
 
-[deployed demo URL]
+https://foley-construction-demo.vercel.app
 
 If it’s useful, I’m happy to walk through it for ten minutes. If it isn’t, no harm done.
 
@@ -235,7 +235,7 @@ If it’s useful, I’m happy to walk through it for ten minutes. If it isn’t,
 
         <Section title="Follow-up">
           <pre className="overflow-x-auto whitespace-pre-wrap rounded-lg border border-line bg-paper p-4 text-sm leading-relaxed">
-            {`Scott — short follow-up on the Foley Construction concept. The piece worth looking at is the kitchen gallery: those are your photos, pulled forward so a homeowner can actually see them. Demo is still up at [URL]. Glad to take it down or talk if you’d rather.`}
+            {`Scott — short follow-up on the Foley Construction concept. The piece worth looking at is the kitchen gallery: those are your photos, pulled forward so a homeowner can actually see them. Demo is still up at https://foley-construction-demo.vercel.app. Glad to take it down or talk if you’d rather.`}
           </pre>
         </Section>
 

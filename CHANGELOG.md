@@ -13,4 +13,6 @@
 - No usable logo file; typeset wordmark. Not a rebrand.
 - Contact form is demo-only and says so.
 - `/outreach` unlinked, noindex, excluded from robots.txt.
-- Original site observations include Flash 404s, `sevices.html`, “to small,” double “on on,” leftover `0`.
+- Production: https://foley-construction-demo.vercel.app
+- GitHub: https://github.com/Novenworks/Foley-Construction-Demo
+
