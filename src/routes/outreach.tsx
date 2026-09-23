@@ -203,35 +203,48 @@ function OutreachPage() {
             </li>
           </ul>
         </Section>
+        <Section title="Subject lines">
+          <ol className="list-decimal space-y-1 pl-5">
+            <li>Scott, I made something for Foley Construction</li>
+            <li>had an idea for Foley Construction</li>
+            <li>quick thing I built for Foley Construction</li>
+          </ol>
+        </Section>
 
-        $1
-<li>Scott, I made something for Foley Construction</li>
-<li>Had an idea for Foley Construction</li>
-<li>Scott, I tried something with the Foley Construction site</li>
-$2
+        <Section title="Cold email">
+          <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
+{`Hi Scott,
 
-        $1`Hi Scott,
+I came across Foley Construction and ended up spending a little time on the site.
 
-Quick one. I was looking through the Foley Construction site and had an idea I could not really explain in an email, so I built it.
+You already have the part that matters, real work and a business people can trust.
 
-I focused on the real project work and the finished results.
+I had an idea for how I'd present it, so I built a version instead of sending you a list of suggestions.
 
 https://foley-construction-demo.vercel.app
 
-Figured you might want to see what I came up with. If it feels useful, I can show you the thinking behind it.
+Thought you might be curious to see it.
+
+If you like the direction, I can show you what I changed.
 
 Vincent
-Novenworks`$2
+Novenworks`}
+          </pre>
+        </Section>
 
-        $1`Hi Scott,
+        <Section title="Follow-up">
+          <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
+{`Hi Scott,
 
-Just bumping this once in case it got buried. I spent some real time on the Foley Construction concept and wanted to make sure you saw it.
+Just bumping this once in case it got buried. I made that Foley Construction homepage concept and figured you might at least be curious to see how it came out.
 
 https://foley-construction-demo.vercel.app
 
-No worries if the timing is off.
+All good if now isn't the time. Just wanted to make sure you saw it.
 
-Vincent`$2
+Vincent`}
+          </pre>
+        </Section>
 
         <Section title="Capture package">
           <p className="mb-6 text-sm text-ink-soft">
