@@ -204,40 +204,34 @@ function OutreachPage() {
           </ul>
         </Section>
 
-        <Section title="Subject lines">
-          <ol className="list-decimal space-y-2 pl-5">
-            <li>Scott — a Fullerton remodeling site that shows the kitchens</li>
-            <li>
-              Your kitchen gallery is still in a Flash file. We rebuilt the
-              front door.
-            </li>
-            <li>Speculative redesign for Foley Construction (not a sales deck)</li>
-          </ol>
-        </Section>
+        $1
+<li>Scott, I made something for Foley Construction</li>
+<li>Had an idea for Foley Construction</li>
+<li>Scott, I tried something with the Foley Construction site</li>
+$2
 
-        <Section title="Cold email">
-          <pre className="overflow-x-auto whitespace-pre-wrap rounded-lg border border-line bg-paper p-4 text-sm leading-relaxed">
-            {`Hi Scott,
+        $1`Hi Scott,
 
-I was looking at Foley Construction the way a Fullerton homeowner would — someone with a kitchen or a second-story idea, on a phone, trying to tell whether the company is real.
+Quick one. I was looking through the Foley Construction site and had an idea I could not really explain in an email, so I built it.
 
-The work is there. The kitchens in your old slideshow are actual Foley jobs. The letters from the Klostermans, Lorraine Jones, the Bradburys, and the Muckenthaler are specific. CSLB #518685 is current. The live site just doesn’t carry any of that. The bathroom and before/after galleries 404 because they’re still pointing at Flash files, and the homepage is a 770-pixel table with a couple of typos sitting in the copy.
-
-Novenworks built a speculative redesign so you can see what the same business looks like when the photography, the license, and the phone number are doing the talking. It is a concept, not a live cutover, and it is not a comment on HostingOC.
+I focused on the real project work and the finished results.
 
 https://foley-construction-demo.vercel.app
 
-If it’s useful, I’m happy to walk through it for ten minutes. If it isn’t, no harm done.
+Figured you might want to see what I came up with. If it feels useful, I can show you the thinking behind it.
 
-— Novenworks`}
-          </pre>
-        </Section>
+Vincent
+Novenworks`$2
 
-        <Section title="Follow-up">
-          <pre className="overflow-x-auto whitespace-pre-wrap rounded-lg border border-line bg-paper p-4 text-sm leading-relaxed">
-            {`Scott — short follow-up on the Foley Construction concept. The piece worth looking at is the kitchen gallery: those are your photos, pulled forward so a homeowner can actually see them. Demo is still up at https://foley-construction-demo.vercel.app. Glad to take it down or talk if you’d rather.`}
-          </pre>
-        </Section>
+        $1`Hi Scott,
+
+Just bumping this once in case it got buried. I spent some real time on the Foley Construction concept and wanted to make sure you saw it.
+
+https://foley-construction-demo.vercel.app
+
+No worries if the timing is off.
+
+Vincent`$2
 
         <Section title="Capture package">
           <p className="mb-6 text-sm text-ink-soft">
