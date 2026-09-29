@@ -16,8 +16,7 @@ export function Differentiation() {
           </h3>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
             Foley Construction is family owned. Clients write to Scott, and
-            several letters thank the same crew by name — a small operation
-            homeowners can actually reach.
+            several letters thank the same crew by name.
           </p>
         </article>
         <article className="rounded-xl border border-line bg-cream p-6">

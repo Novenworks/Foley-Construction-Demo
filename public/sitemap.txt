@@ -1,5 +1,5 @@
-/
-/services
-/work
-/about
-/contact
+https://foley-construction-demo.vercel.app/
+https://foley-construction-demo.vercel.app/services
+https://foley-construction-demo.vercel.app/work
+https://foley-construction-demo.vercel.app/about
+https://foley-construction-demo.vercel.app/contact
