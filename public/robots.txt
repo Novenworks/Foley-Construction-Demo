@@ -3,4 +3,4 @@ Allow: /
 Disallow: /outreach
 Disallow: /outreach/
 
-Sitemap: /sitemap.txt
+Sitemap: https://foley-construction-demo.vercel.app/sitemap.txt

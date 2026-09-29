@@ -41,7 +41,7 @@ export const services = [
     slug: "kitchens",
     title: "Kitchens",
     summary:
-      "Custom kitchen remodels, from layout and lighting to tile, granite, and solid-surface installations.",
+      "Custom kitchen remodels, including lighting and tile, granite, and solid-surface installations.",
     href: "/work#kitchens",
     image: "/images/kitchens/hero-kitchen.jpg",
     imageAlt: "Remodeled Fullerton kitchen with island, granite counters, and stainless appliances — Foley Construction project photography",
@@ -50,7 +50,7 @@ export const services = [
     slug: "bathrooms",
     title: "Bathrooms",
     summary:
-      "Bathroom remodels and master suites planned around daily use, finish quality, and a clean jobsite.",
+      "Bathroom remodels, including master baths and master suites.",
     href: "/services#bathrooms",
     image: "/images/spaces/bathroom.jpg",
     imageAlt: "Bathroom remodel with tiled shower and wood vanity — Foley Construction project photography",
@@ -59,7 +59,7 @@ export const services = [
     slug: "family-rooms",
     title: "Family rooms",
     summary:
-      "Family rooms, dens, and living spaces designed to feel like they belong to the rest of the house.",
+      "Family room and den remodels and additions.",
     href: "/work#living",
     image: "/images/spaces/family-room.jpg",
     imageAlt: "Finished family room with fireplace, built-ins, and wood floors — Foley Construction project photography",
@@ -118,7 +118,7 @@ export const processSteps = [
   {
     n: "02",
     title: "Design-build",
-    body: "Design and construction stay with one local team, so layout, materials, and field work are coordinated rather than handed between separate firms.",
+    body: "Foley Construction describes itself as design-build: design and construction with one company.",
   },
   {
     n: "03",

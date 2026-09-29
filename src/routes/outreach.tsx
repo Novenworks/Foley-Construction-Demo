@@ -37,9 +37,32 @@ function OutreachPage() {
           Foley Construction outreach brief
         </h1>
         <p className="mt-3 text-sm text-ink-soft">
-          Prospect 06/20 · Fullerton, CA · design-build remodeling. Built as a
+          Prospect NW-019 · Fullerton, CA · design-build remodeling. Built as a
           concept. Foley Construction is not a Novenworks client.
         </p>
+
+        <Section title="Contact">
+          <Dl
+            rows={[
+              ["Name", "Scott Foley (CSLB qualifying individual: Scott Fredrick Foley)"],
+              ["Role", "Owner per pipeline sheet; qualifying individual per CSLB. “Owner” title itself is not stated on the public site."],
+              ["Phone", `${site.phoneDisplay} (office line on foleyconstruction.com and CSLB)`],
+              ["Email", "Not found. The public site publishes no email address. Do not guess one."],
+              ["Fax", site.faxDisplay],
+              ["Address", `${site.addressLine1}, ${site.addressLine2}`],
+              ["Confidence", "Name and phone confirmed against CSLB #518685 and the first-party site. Email unresolved."],
+            ]}
+          />
+        </Section>
+
+        <Section title="Why this prospect">
+          <p>
+            Established Fullerton design-build remodeler with a current Class B
+            license and real project photography and client letters that the
+            current site does not present well. Phone is the only published
+            contact path, so a clearer presentation is the whole pitch.
+          </p>
+        </Section>
 
         <Section title="Business snapshot">
           <Dl
@@ -232,7 +255,7 @@ Novenworks`}
           </pre>
         </Section>
 
-        <Section title="Follow-up">
+        <Section title="Follow-up 1 (about 4 business days later)">
           <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
 {`Hi Scott,
 
@@ -244,6 +267,45 @@ All good if now isn't the time. Just wanted to make sure you saw it.
 
 Vincent`}
           </pre>
+        </Section>
+
+        <Section title="Follow-up 2 (about 10 business days after the first email)">
+          <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
+{`Hi Scott,
+
+Last note from me. The Foley Construction concept is still up if you want to look at it:
+
+https://foley-construction-demo.vercel.app
+
+If it isn't useful, no problem at all, and I won't keep emailing.
+
+Vincent
+Novenworks`}
+          </pre>
+        </Section>
+
+        <Section title="Phone / voicemail">
+          <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
+{`Hi Scott, this is Vincent with Novenworks here in the Inland Empire. I put together a redesigned homepage concept for Foley Construction using your own photos and client letters. There's no cost and no obligation. I'll send the link if you give me an email address, or you can find it at foley-construction-demo.vercel.app. My number is [Vincent's number]. Thanks.`}
+          </pre>
+        </Section>
+
+        <Section title="Alternate contact path">
+          <ul className="list-disc space-y-2 pl-5">
+            <li>No public email exists, so the first touch is likely a phone call to {site.phoneDisplay} asking for Scott, then send the link to whatever address he gives.</li>
+            <li>Ask for the best email for Scott, not for a generic “info@” address.</li>
+            <li>The contact page on foleyconstruction.com lists only phone, fax, and address. A mailed letter to {site.addressLine1}, {site.addressLine2} is the fallback.</li>
+          </ul>
+        </Section>
+
+        <Section title="Still to verify before sending">
+          <ul className="list-disc space-y-2 pl-5">
+            <li>An email address for Scott (none published; the cold email cannot go out until one is found).</li>
+            <li>Scott’s title (“owner”) with the company.</li>
+            <li>Re-read the live testimonials page in a browser: the letters used on this demo (Klosterman, Hobbick, Jones, Brown, Muckenthaler mention) were captured on 2026-09-08 and could not be re-fetched by the automated QA pass on 2026-09-29.</li>
+            <li>Re-check the original-site observations above in a browser (770px table layout, Flash galleries returning 404) before quoting them to Scott.</li>
+            <li>Replace [Vincent’s number] in the voicemail script.</li>
+          </ul>
         </Section>
 
         <Section title="Capture package">
