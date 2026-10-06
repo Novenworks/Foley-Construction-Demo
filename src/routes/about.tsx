@@ -28,19 +28,18 @@ function AboutPage() {
         <div className="lg:col-span-7">
           <p className="text-lg leading-relaxed text-ink-soft">
             Foley Construction is family owned and has been specializing in
-            custom home remodeling and construction for over 22 years. The
-            staff and crew is dedicated to masterful work, done on time.
+            custom home remodeling and construction for over 22 years. Our
+            staff and crew are dedicated to masterful work, done on time.
           </p>
           <p className="mt-5 text-base leading-relaxed text-ink-soft">
-            Fully insured, Foley Construction specializes in Fullerton, as
-            well as other historic Orange County locations. The company is
-            committed to providing cost-efficient, high-quality projects and
-            to listening to clients’ needs.
+            Fully insured, we specialize in Fullerton, as well as other
+            historic Orange County locations. We are committed to
+            cost-efficient, high-quality projects and to listening to our
+            clients’ needs.
           </p>
           <p className="mt-5 text-base leading-relaxed text-ink-soft">
-            The qualifying individual on the California license is Scott
-            Fredrick Foley. Client letters on the current website address him
-            by name and mention a small, familiar crew.
+            The qualifying individual on our California license is Scott
+            Fredrick Foley.
           </p>
         </div>
         <aside className="rounded-xl border border-line bg-cream p-6 lg:col-span-5">
@@ -82,27 +81,12 @@ function AboutPage() {
             Verify on CSLB.ca.gov
           </a>
           <p className="mt-3 text-xs leading-relaxed text-muted">
-            License facts are from the California Contractors State License
-            Board, retrieved September 2026. Always re-check before hiring.
+            License details are from the California Contractors State License
+            Board.
           </p>
         </aside>
       </section>
 
-      <section className="border-t border-line bg-cream">
-        <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
-          <h2 className="font-display text-3xl font-semibold">
-            What this page does not claim
-          </h2>
-          <p className="mt-4 max-w-2xl text-sm leading-relaxed text-ink-soft">
-            Foley Construction’s current website does not publish staff count,
-            annual volume, warranties, financing, or a numbered project
-            tally. This redesign does not invent those figures. The “over 22
-            years” phrasing is the company’s own, and it remains a true
-            floor; the license was first issued in 1987 and reissued to the
-            current corporation in 2004.
-          </p>
-        </div>
-      </section>
       <FinalCta />
     </SiteShell>
   );

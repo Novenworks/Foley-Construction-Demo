@@ -18,11 +18,11 @@ export function FinalCta() {
           Start a conversation
         </p>
         <h2 className="mt-3 font-display text-4xl font-semibold tracking-tight text-cream sm:text-5xl">
-          Call Foley Construction about the work you have in mind.
+          Call us about the work you have in mind.
         </h2>
         <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-cream/80">
-          The company asks homeowners to call directly to schedule a
-          consultation. There is no job too small.
+          Call us directly to schedule a consultation. There is no job too
+          small.
         </p>
         <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
           <Button asChild size="lg" variant="light">

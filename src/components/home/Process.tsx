@@ -24,9 +24,8 @@ export function Process() {
           ))}
         </ol>
         <p className="mt-10 max-w-2xl text-xs leading-relaxed text-muted">
-          Foley Construction does not publish a guaranteed timeline, price
-          range, or warranty on its current website. Those details belong in a
-          conversation about your specific house.
+          Timelines and pricing depend on your house and your project. Call us
+          and we will talk through the details.
         </p>
       </div>
     </section>

@@ -11,15 +11,9 @@ export function LocalArea() {
           A shop on Orange Avenue, working historic Orange County homes.
         </h2>
         <p className="mt-4 text-base leading-relaxed text-ink-soft">
-          Foley Construction lists its office at {site.addressLine1},{" "}
-          {site.addressLine2}. The first-party site says the company
-          specializes in Fullerton as well as other historic Orange County
+          Our office is at {site.addressLine1}, {site.addressLine2}. We
+          specialize in Fullerton as well as other historic Orange County
           locations.
-        </p>
-        <p className="mt-4 text-base leading-relaxed text-ink-soft">
-          One published letter thanks the company for work at the Muckenthaler
-          Cultural Center — a Fullerton landmark — which is the kind of local
-          thread a homeowner in this city actually recognizes.
         </p>
         <p className="mt-6 text-sm font-medium text-ink">
           {site.addressLine1}

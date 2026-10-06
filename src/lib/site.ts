@@ -6,7 +6,7 @@ export const site = {
   tagline: "Design-Build Remodeling in Fullerton",
   heroHeadline: "Thoughtful Remodeling for Fullerton Homes",
   heroSupport:
-    "Foley Construction brings more than two decades of custom remodeling experience to kitchens, bathrooms, family spaces, and larger home projects across Fullerton and Orange County.",
+    "We bring more than two decades of custom remodeling experience to kitchens, bathrooms, family spaces, and larger home projects across Fullerton and Orange County.",
   phoneDisplay: "(714) 879-4618",
   phoneTel: "tel:+17148794618",
   faxDisplay: "(714) 879-4539",
@@ -104,8 +104,8 @@ export const additionList = [
 ] as const;
 
 export const secondaryCapabilities = [
-  { title: "Patios and decks", body: "Outdoor living spaces listed among Foley Construction’s design-build services." },
-  { title: "Lighting and interiors", body: "Lighting, ceilings, and soffits as part of remodel work." },
+  { title: "Patios and decks", body: "Outdoor living spaces as part of our design-build services." },
+  { title: "Lighting and interiors", body: "Lighting, ceilings, and soffits as part of our remodel work." },
   { title: "Finish installations", body: "Tile, granite, and solid-surface material installations." },
 ] as const;
 
@@ -113,17 +113,17 @@ export const processSteps = [
   {
     n: "01",
     title: "Consultation",
-    body: "Call to talk through the remodeling work you have in mind. Foley Construction invites homeowners to schedule a consultation about their project.",
+    body: "Call us to talk through the remodeling work you have in mind. We schedule a consultation about your project.",
   },
   {
     n: "02",
     title: "Design-build",
-    body: "Foley Construction describes itself as design-build: design and construction with one company.",
+    body: "We are a design-build company: design and construction with one team.",
   },
   {
     n: "03",
     title: "Build with care",
-    body: "A family-owned crew focused on Fullerton and historic Orange County homes, with an emphasis on workmanship and staying on schedule.",
+    body: "Our family-owned crew works on Fullerton and historic Orange County homes, with an emphasis on workmanship and staying on schedule.",
   },
 ] as const;
 

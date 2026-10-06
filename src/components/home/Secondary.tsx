@@ -12,8 +12,7 @@ export function Secondary() {
             Additions, finishes, and outdoor living.
           </h2>
           <p className="mt-4 text-sm leading-relaxed text-ink-soft">
-            The services page lists more than kitchens and baths. No job is
-            treated as too small.
+            We do more than kitchens and baths. No job is too small.
           </p>
           <ul className="mt-6 space-y-4">
             {secondaryCapabilities.map((item) => (

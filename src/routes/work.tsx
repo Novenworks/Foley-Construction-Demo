@@ -22,11 +22,8 @@ function WorkPage() {
             Kitchens, family rooms, and the rooms around them.
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-ink-soft">
-            Every photograph on this page comes from Foley Construction’s
-            first-party website. Kitchen stills were recovered from the
-            company’s original Flash gallery. Bathroom photography on the live
-            site is limited to a single published still because the bathroom
-            slideshow file is no longer online.
+            A look at kitchens, family rooms, and a bathroom from our
+            projects.
           </p>
         </div>
       </section>
@@ -80,8 +77,7 @@ function WorkPage() {
                 className="aspect-[4/3] w-full rounded-lg object-cover"
               />
               <figcaption className="mt-2 text-xs text-muted">
-                Bathroom still from the original homepage (limited source
-                resolution).
+                Bathroom remodel.
               </figcaption>
             </figure>
           </div>
