@@ -3,7 +3,7 @@ export function Differentiation() {
     <section className="mx-auto grid max-w-6xl gap-12 px-4 py-20 sm:px-6 lg:grid-cols-12 lg:items-center">
       <div className="lg:col-span-5">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate">
-          Why homeowners call Foley
+          Why homeowners call us
         </p>
         <h2 className="mt-3 font-display text-4xl font-semibold tracking-tight text-ink sm:text-5xl">
           A Fullerton company that already knows these houses.
@@ -15,8 +15,8 @@ export function Differentiation() {
             Family-owned
           </h3>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-            Foley Construction is family owned. Clients write to Scott, and
-            several letters thank the same crew by name.
+            Foley Construction is family owned. Our clients write to Scott
+            and thank our crew by name.
           </p>
         </article>
         <article className="rounded-xl border border-line bg-cream p-6">
@@ -24,9 +24,8 @@ export function Differentiation() {
             Historic Orange County
           </h3>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-            The company specializes in Fullerton and other historic Orange
-            County locations — not a regional billboard covering half the
-            state.
+            We specialize in Fullerton and other historic Orange County
+            locations.
           </p>
         </article>
         <article className="rounded-xl border border-line bg-cream p-6">
@@ -34,9 +33,8 @@ export function Differentiation() {
             Design-build
           </h3>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-            Design and construction sit under one roof. That is the model
-            Foley publishes, from kitchens and baths through room additions
-            and whole-house remodels.
+            Design and construction sit under one roof, from kitchens and
+            baths through room additions and whole-house remodels.
           </p>
         </article>
         <article className="rounded-xl border border-line bg-cream p-6">
@@ -45,8 +43,8 @@ export function Differentiation() {
           </h3>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
             Scott F Foley Construction Inc holds CSLB license #518685, Class
-            B General Building — current and active. Bonded and insured, as
-            the first-party site states and the license record supports.
+            B General Building, current and active. We are bonded and
+            insured.
           </p>
         </article>
       </div>

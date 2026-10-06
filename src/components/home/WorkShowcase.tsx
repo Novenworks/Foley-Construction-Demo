@@ -21,12 +21,11 @@ export function WorkShowcase() {
               Real project photography
             </p>
             <h2 className="mt-3 font-display text-4xl font-semibold tracking-tight sm:text-5xl">
-              Work from Foley jobs, not stock rooms.
+              Our own projects.
             </h2>
             <p className="mt-4 text-base leading-relaxed text-cream/78">
-              These photographs come from Foley Construction’s own website —
-              kitchen galleries recovered from their project slideshow, plus
-              the family-room and bathroom images they already publish.
+              Photographs of kitchens, family rooms, and bathrooms from our
+              projects.
             </p>
           </div>
           <Button asChild variant="light">

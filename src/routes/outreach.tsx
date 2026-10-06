@@ -238,20 +238,17 @@ function OutreachPage() {
           <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
 {`Hi Scott,
 
-I came across Foley Construction and ended up spending a little time on the site.
+When I opened foleyconstruction.com on a phone-sized screen, the page ran about twice as wide as the screen and scrolled sideways, and the phone number was not a tap-to-call link.
 
-You already have the part that matters, real work and a business people can trust.
-
-I had an idea for how I'd present it, so I built a version instead of sending you a list of suggestions.
+I built a version of the site where a homeowner can tap to call right away, see your kitchens and family rooms in full size, and read your client letters, with your CSLB license shown on the page.
 
 https://foley-construction-demo.vercel.app
 
-Thought you might be curious to see it.
+It is a done-for-you package: copy, build, mobile polish, connecting to your existing phone line, technical setup and launch. I handle the work. You review and approve.
 
-If you like the direction, I can show you what I changed.
+Want me to send over the full breakdown of what you get and what it costs?
 
-Vincent
-Novenworks`}
+Vincent, Novenworks`}
           </pre>
         </Section>
 
@@ -286,7 +283,7 @@ Novenworks`}
 
         <Section title="Phone / voicemail">
           <pre className="whitespace-pre-wrap rounded-md bg-white p-4 text-sm leading-relaxed text-ink">
-{`Hi Scott, this is Vincent with Novenworks here in the Inland Empire. I put together a redesigned homepage concept for Foley Construction using your own photos and client letters. There's no cost and no obligation. I'll send the link if you give me an email address, or you can find it at foley-construction-demo.vercel.app. My number is [Vincent's number]. Thanks.`}
+{`Hi Scott, this is Vincent with Novenworks here in the Inland Empire. I put together a redesigned homepage concept for Foley Construction using your own photos and client letters. There's no cost and no obligation. I'd be glad to send the link if you give me an email address, or you can find it at foley-construction-demo.vercel.app. I'll try you again. Thanks.`}
           </pre>
         </Section>
 
@@ -302,9 +299,9 @@ Novenworks`}
           <ul className="list-disc space-y-2 pl-5">
             <li>An email address for Scott (none published; the cold email cannot go out until one is found).</li>
             <li>Scott’s title (“owner”) with the company.</li>
-            <li>Re-read the live testimonials page in a browser: the letters used on this demo (Klosterman, Hobbick, Jones, Brown, Muckenthaler mention) were captured on 2026-09-08 and could not be re-fetched by the automated QA pass on 2026-09-29.</li>
-            <li>Re-check the original-site observations above in a browser (770px table layout, Flash galleries returning 404) before quoting them to Scott.</li>
-            <li>Replace [Vincent’s number] in the voicemail script.</li>
+            <li>Testimonials page re-read in a real browser on 2026-10-06 (Hobbick, Klosterman and others load at foleyconstruction.com/testimonials.html).</li>
+            <li>Verified in a browser 2026-10-06: at 390px wide foleyconstruction.com has a document width of 771px (sideways scroll) and its phone number is not a tel: link. Flash gallery claims were not re-checked; do not quote them.</li>
+            <li>Voicemail script no longer contains a number placeholder; Vincent states his own callback number live when leaving the message.</li>
           </ul>
         </Section>
 

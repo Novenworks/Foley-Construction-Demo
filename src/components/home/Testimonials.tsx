@@ -9,12 +9,10 @@ export function Testimonials() {
           In their words
         </p>
         <h2 className="mt-3 max-w-2xl font-display text-4xl font-semibold tracking-tight text-ink sm:text-5xl">
-          Letters Foley Construction already publishes.
+          Letters from our clients.
         </h2>
         <p className="mt-4 max-w-2xl text-sm leading-relaxed text-ink-soft">
-          These quotes are taken from the testimonials page on
-          foleyconstruction.com. They are not star ratings, and they are not
-          aggregated from review sites.
+          Client letters from the testimonials page on foleyconstruction.com.
         </p>
         <div className="mt-12 grid gap-5 md:grid-cols-2">
           {shown.map((t) => (

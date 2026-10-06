@@ -10,12 +10,11 @@ export function ServiceGrid() {
           What we build
         </p>
         <h2 className="mt-3 font-display text-4xl font-semibold tracking-tight text-ink sm:text-5xl">
-          Remodeling work grouped the way homeowners decide.
+          Remodeling work, grouped the way homeowners decide.
         </h2>
         <p className="mt-4 text-base leading-relaxed text-ink-soft">
-          Foley Construction is a full-service design-build company for custom
-          home remodeling. The work on this site is the work they publish:
-          kitchens, bathrooms, family rooms, and larger additions.
+          We are a full-service design-build company for custom home
+          remodeling: kitchens, bathrooms, family rooms, and larger additions.
         </p>
       </div>
       <div className="mt-12 grid gap-5 md:grid-cols-2">

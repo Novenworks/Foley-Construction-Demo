@@ -40,9 +40,9 @@ function ContactPage() {
           </p>
           <p className="mt-3 text-sm text-muted">Fax {site.faxDisplay}</p>
           <p className="mt-6 max-w-sm text-sm leading-relaxed text-ink-soft">
-            Phone is the conversion path Foley Construction publishes. The
-            note form on this page is a demo of how a redesigned site could
-            collect project details — it does not email the office.
+            The fastest way to reach us is by phone. The note form on this
+            page is a concept preview and does not send anything to our
+            office.
           </p>
           <a
             className="mt-4 inline-block text-sm font-medium text-slate hover:underline"

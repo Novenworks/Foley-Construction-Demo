@@ -23,9 +23,8 @@ function ServicesPage() {
             Custom home remodeling, from a kitchen to a second story.
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-ink-soft">
-            Foley Construction is a full-service construction company for
-            custom home remodeling and construction. The list below is taken
-            from the company’s own services page.
+            We are a full-service construction company for custom home
+            remodeling and construction. Here is what we do.
           </p>
         </div>
       </section>
@@ -78,8 +77,7 @@ function ServicesPage() {
         </div>
         <div className="mx-auto mt-10 max-w-6xl px-4 sm:px-6">
           <p className="text-sm text-ink-soft">
-            Patios and decks are also listed. Foley Construction writes that
-            there is no job too small, and invites homeowners to call{" "}
+            We also build patios and decks. There is no job too small. Call{" "}
             <a className="font-medium text-ink underline" href={site.phoneTel}>
               {site.phoneDisplay}
             </a>{" "}
