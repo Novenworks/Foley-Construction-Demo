@@ -22,6 +22,7 @@ export const Route = createRootRoute({
           "Foley Construction is a family-owned design-build remodeling company in Fullerton, CA. Kitchens, bathrooms, family rooms, and custom home construction. Licensed CSLB #518685.",
       },
       { name: "theme-color", content: "#2c3844" },
+      { name: "robots", content: "noindex, nofollow" },
     ],
     links: [
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
