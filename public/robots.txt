@@ -1,6 +1,4 @@
 User-agent: *
-Allow: /
-Disallow: /outreach
-Disallow: /outreach/
+Disallow: /
 
 Sitemap: https://foley-construction-demo.vercel.app/sitemap.txt
